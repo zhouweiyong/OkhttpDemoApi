@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="96" selection-end="96" vertical-scroll-proportion="0.20024876" vertical-offset="0" max-vertical-offset="874">
+            <state line="15" column="26" selection-start="316" selection-end="316" vertical-scroll-proportion="-10.78125" vertical-offset="0" max-vertical-offset="874">
               <folding>
                 <element signature="e#6#85#0" expanded="true" />
               </folding>
@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="admin.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="31" selection-start="364" selection-end="364" vertical-scroll-proportion="-8.625" vertical-offset="0" max-vertical-offset="529">
+            <state line="15" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="0.28151774" vertical-offset="0" max-vertical-offset="817">
               <folding />
             </state>
           </provider>
@@ -167,46 +167,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OkhttpDemoApi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OkhttpDemoApi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OkhttpDemoApi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OkhttpDemoApi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,10 +355,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/admin.php">
+    <entry file="file://$PROJECT_DIR$/Main/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="31" selection-start="364" selection-end="364" vertical-scroll-proportion="-8.625" vertical-offset="0" max-vertical-offset="529">
-          <folding />
+        <state line="15" column="26" selection-start="316" selection-end="316" vertical-scroll-proportion="-10.78125" vertical-offset="0" max-vertical-offset="874">
+          <folding>
+            <element signature="e#6#85#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -409,12 +371,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/index.php">
+    <entry file="file://$PROJECT_DIR$/Main/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="96" selection-end="96" vertical-scroll-proportion="0.20024876" vertical-offset="0" max-vertical-offset="874">
-          <folding>
-            <element signature="e#6#85#0" expanded="true" />
-          </folding>
+        <state line="15" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="0.28151774" vertical-offset="0" max-vertical-offset="817">
+          <folding />
         </state>
       </provider>
     </entry>
