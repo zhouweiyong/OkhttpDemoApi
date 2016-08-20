@@ -20,10 +20,12 @@ define("APP_DEBUG", true);
 //define('BIND_MODULE', 'Home');
 // 绑定Index控制器到当前入口文件
 //define('BIND_CONTROLLER', 'Index');
+
 //定义BUILD_CONTROLLER_LIST自动生成多个控制器
 define('BUILD_CONTROLLER_LIST', 'Index,User,Menu');
 //定义BUILD_MODEL_LIST自动生成多个模型类
 define('BUILD_MODEL_LIST', 'User,Menu');
+
 require THINK_PATH . 'ThinkPHP.php';
 
 //请求的url格式：http://serverName/index.php/Home/Index/index
