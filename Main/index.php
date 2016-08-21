@@ -22,9 +22,9 @@ define("APP_DEBUG", true);
 //define('BIND_CONTROLLER', 'Index');
 
 //定义BUILD_CONTROLLER_LIST自动生成多个控制器
-define('BUILD_CONTROLLER_LIST', 'Index,User,Menu');
+//define('BUILD_CONTROLLER_LIST', 'Index,User,Menu');
 //定义BUILD_MODEL_LIST自动生成多个模型类
-define('BUILD_MODEL_LIST', 'User,Menu');
+//define('BUILD_MODEL_LIST', 'User,Menu');
 
 require THINK_PATH . 'ThinkPHP.php';
 

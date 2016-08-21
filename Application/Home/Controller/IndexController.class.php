@@ -20,10 +20,10 @@ class IndexController extends Controller {
 
     //读取数据库
     public function helloDb(){
-        //读取think_data表单
+        //创建data模型对象
         $data = M("data");
 //        var_dump($data);
-        //获取表单中的第一条信息
+        //获取同名表单中的第一条信息
         $res = $data->find(1);
         //echo $res['data'];
         
